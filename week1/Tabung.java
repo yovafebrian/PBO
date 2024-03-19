@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 public class Tabung {
     public static void main(String[] args) {
@@ -28,5 +30,9 @@ public class Tabung {
         System.out.println("tinggi : " + tinggi);
         System.out.println("jariJari : " + jariJari);
         System.out.println("jawaban: "  + jawab);
+
+        scn.close();
     }   
+
+   
 } 

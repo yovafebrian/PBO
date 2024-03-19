@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class LuasSegitiga {
     public static void main(String[] args) {
-        // Deklarasi variabel untuk alas dan tinggi
+        // mendeklarasi variabel untuk luas segitig
         int  alas;
         int tinggi; 
         double luas;
